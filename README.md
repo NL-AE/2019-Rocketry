@@ -2,7 +2,8 @@
 
 Rocket for entry into the 2019 UKRoC challenge with 5 other friends. 
 
-Launch day: we put 4 motors instead of 3 and the rocket flew some 380m (about 120m over target) and we lost the bottom stage so we now have half a rocket.
+Launch day: we put 4 motors instead of 3 and the rocket flew some 380m (about 120m over target) and we lost the bottom stage so we now have half a rocket. Painting it camoflauge green was also not a good idea considering landed in a field.
+Dumbass me made the arduino write to "DATALOG.TXT" while the file in the SD card was called "datalog.txt" so we didnt get any data.
 
 Before Launch
 
@@ -17,3 +18,8 @@ Reading for launch
 The pile of electronics that controls it
 
 ![Arduino pile](https://github.com/NL-AE/2019-Rocketry/blob/master/Media/IMG_20190315_201525.jpg)
+
+
+The crusty launchpad the rocket shot off
+
+![Launchpad](https://github.com/NL-AE/2019-Rocketry/blob/master/Media/IMG_20190508_173502.png)
