@@ -3,14 +3,16 @@
 Rocket for entry into the 2019 UKRoC challenge with 5 other friends. 
 
 
-Launch day: we put 4 motors instead of 3 and the rocket flew some 380m (about 120m over target) and we lost the bottom stage so we now have half a rocket. 
+Launch day: we put 4 motors instead of 3 and the rocket flew some 380m (about 120m over target). We lost the bottom stage so we now have half a rocket. 
 
 In retrospective, painting it camoflauge green was also not a good idea considering it landed in a green field.
-Also I made the arduino write to "DATALOG.TXT" while the file in the SD card was called "datalog.txt" so we didnt get any data.
+Also I made the arduino write to the SD card with serial commands for some reason so we didnt get any data. (Just thought of that while typing this up. Id thought it was because the arduino was writing to "DATALOG.TXT" while the file in the SD card was called "datalog.txt" so the actual reason is even more dumb).
 
-Control system looked like it worked since the rocket didnt have a rapid unplanned disassembly. Also patachute worked "perfectly" but I am pretty sure that it only worked because the elastic band holding the parachute door closed actually came off the servo during countdown and hung on for dear life until the rocket slowed enough or something dumb like that.
+The control system looked like it worked since the rocket didnt have a rapid unplanned disassembly and went upwards ±a bit. The patachute worked "perfectly" despite me being pretty sure that the elastic band holding the parachute door closed actually came off the servo during countdown. Somehow it hung on for dear life until the rocket slowed enough or something spooky like that.
 
-Id also misread the rules so we had to do some on-field rocket surgery i.e. snipping the bottom stage and top. This meant that the very small bottom stage had a comparatively massive parachute which lead to it drifting away to the great rocketyard in the sky (idk a cow ate it maybe)
+Id also misread the rules so we had to do some in-field rocket surgery i.e. snipping the bottom stage and top. This meant that the very small bottom stage had a comparatively massive parachute which lead to it drifting away to the great rocketscrapyard in the sky (idk a cow ate it maybe).
+
+Also learnt to not cut both wires of a battery at the same time cus then you get a short and the lipo releases the magic smoke and lots of electrons.
 
 Before Launch
 
