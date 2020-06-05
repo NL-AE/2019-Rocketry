@@ -2,10 +2,14 @@
 
 Rocket for entry into the 2019 UKRoC challenge with 5 other friends. 
 
-Launch day: we put 4 motors instead of 3 and the rocket flew some 380m (about 120m over target) and we lost the bottom stage so we now have half a rocket. Painting it camoflauge green was also not a good idea considering landed in a field.
-Dumbass me made the arduino write to "DATALOG.TXT" while the file in the SD card was called "datalog.txt" so we didnt get any data.
 
-Control system looked like it worked since the rocket didnt die. Also patachute worked "perfectly" but I think that was only because the elastic band holding the parachute door closed actually came off during countdown :^)
+Launch day: we put 4 motors instead of 3 and the rocket flew some 380m (about 120m over target) and we lost the bottom stage so we now have half a rocket. 
+
+In retrospective, painting it camoflauge green was also not a good idea considering landed in a green field.
+Also I made the arduino write to "DATALOG.TXT" while the file in the SD card was called "datalog.txt" so we didnt get any data.
+
+Control system looked like it worked since the rocket didnt have a rapid unplanned disassembly. Also patachute worked "perfectly" but I am pretty sure that was only because the elastic band holding the parachute door closed actually came off during countdown and hung on for dear life until the rocket slowed enough or something dumb like that.
+
 
 Before Launch
 
