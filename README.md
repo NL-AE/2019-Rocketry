@@ -22,6 +22,6 @@ The pile of electronics that controls it
 ![Arduino pile](https://github.com/NL-AE/2019-Rocketry/blob/master/Media/IMG_20190315_201525.jpg)
 
 
-The crusty launchpad the rocket shot off
+The crusty launchpad the rocket shot off that got plugged into the camera tripod I had
 
 ![Launchpad](https://github.com/NL-AE/2019-Rocketry/blob/master/Media/IMG_20190508_173502.png)
