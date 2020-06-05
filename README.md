@@ -10,7 +10,7 @@ Also I made the arduino write to the "DATALOG.TXT" instead of the file in the SD
 
 The control system looked like it worked since the rocket didnt have a rapid unplanned disassembly and went upwards ±a bit. The patachute worked "perfectly" despite me being pretty sure that the elastic band holding the parachute door closed actually came off the servo during countdown. Somehow it hung on for dear life until the rocket slowed enough or something spooky like that.
 
-Id also misread the rules so we had to do some in-field rocket surgery i.e. snipping the bottom stage and top. This meant that the very small bottom stage had a comparatively massive parachute which lead to it drifting away to the great rocketscrapyard in the sky (idk a cow ate it maybe).
+Id also misread the rules so we had to do some in-field rocket surgery i.e. snipping the bottom stage and top. This meant that the very small bottom stage had a comparatively massive parachute which lead to it drifting away to the great rocket scrapyard in the sky (idk a cow has probably eaten it maybe).
 
 Also learnt to not cut both wires of a battery at the same time cus then you get a short and the lipo releases the magic smoke and lots of electrons.
 
