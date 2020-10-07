@@ -24,4 +24,4 @@ The launchpad that plugs into a camera tripod
 ![Launchpad](https://github.com/NL-AE/2019-Rocketry/blob/master/Media/IMG_20190508_173502.png)
 
 Big red launch button that we didnt end up using
-![button[(https://github.com/NL-AE/2019-Rocketry/blob/master/Media/IMG_20190301_170351.jpg)
+![button](https://github.com/NL-AE/2019-Rocketry/blob/master/Media/IMG_20190301_170351.jpg)
